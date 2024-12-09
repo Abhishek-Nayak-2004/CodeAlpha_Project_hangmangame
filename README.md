@@ -5,4 +5,7 @@ hey there this is my internship projects in python programming and i glad to tha
 The program selects a random word, and the player guesses one letter at a time to uncover the word.
 
 2. Basic chat bot: 
-this is a simple chat bot which is made by python libraries ntkl 
+this is a simple chat bot which is made by python libraries ntkl
+
+3. Stock portfolio tracker
+this is a simple portfolio tracker where you can add and remove your stockes according to or trading and investment strategy
